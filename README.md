@@ -10,27 +10,27 @@ Time spent: **4** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [x] The introduction section explains the background of the company and how many games remain unfunded.
+* [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] An Our Games in the nav bar which slides down to the Our Games section.
-* [ ] Centered all the body text
+* [x] An Our Games in the nav bar which slides down to the Our Games section.
+* [x] Centered all the body text
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/hRGU7D6' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with QuickTime Player and Adobe
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I needed to review some of the JavaScript concepts, but everything went pretty smoothly.
 
 ## License
 
